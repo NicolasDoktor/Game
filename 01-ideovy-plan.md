@@ -12,9 +12,14 @@
        - pole na kterém rostou suroviny se dá vylepšovat i spolu s nástroji se kterými je sbírá
 
        - hráč musí nasbírat co nejvíce surovin za určitý čas, pokud to nestihne něco se stane
-       
+
+  ### Audio:
+       - pokusím se nahrávat vlastní
 
 **Video/Audio editor:** Davinci Resolve
+
 **Studio: Godot**
+
 **Grafika: 2D**
 
+**Youtube:** Pro propagaci ještě není(Trailer...)
