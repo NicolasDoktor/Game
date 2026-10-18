@@ -1,8 +1,8 @@
 # Farming simulator
 
-autor: Nicolas Doktor
-rok: 2026
-škola: VOŠ, SPŠ A SOŠ Varnsdorf
+**autor:** Nicolas Doktor
+**rok:** 2026
+**škola:** VOŠ, SPŠ A SOŠ Varnsdorf
 
 
 ## Simulátor farmy
@@ -14,6 +14,7 @@ rok: 2026
 
 
   ### popis: 
+       - baseplate bude na způsob farmy
       
        - pole na kterém rostou suroviny se dá vylepšovat i spolu s nástroji se kterými je sbírá
 
@@ -21,4 +22,9 @@ rok: 2026
        
 
 
-Studio: UnrealEngine / Godot
+Studio: Godot
+Grafika: 2D
+
+## Rozcestník
+* [01 - Ideový plán](./01-ideovy-plan/)
+* *Další složky budou přidány postupně...*
