@@ -5,7 +5,6 @@
        - zlepšování farmy, nástrojů, ale hlavně stihnout nasbírat co nejvíce surovin
 
 
-
   ### popis: 
        - baseplate bude na způsob farmy
       
@@ -17,9 +16,7 @@
        - pokusím se nahrávat vlastní
   ### Chystané použité technologie:
        - Python, php, JavaScript
-       -
-
-
+       
 
   
 **Video/Audio editor:** Davinci Resolve
