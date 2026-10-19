@@ -1,4 +1,4 @@
-# Farming simulator
+# Slime RPG
 
 **autor:** Nicolas Doktor
 
