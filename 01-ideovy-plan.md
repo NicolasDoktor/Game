@@ -1,12 +1,12 @@
-## Simulátor farmy
+## Slime RPG
 
 ### princip:
 
-       - zlepšování farmy, nástrojů, ale hlavně stihnout nasbírat co nejvíce surovin
+       - zlepšování sebe, nástrojů, a hlavně zabít co nejvíce nepřátel
 
 
   ### popis: 
-       - baseplate bude na způsob farmy
+
       
        - pole na kterém rostou suroviny se dá vylepšovat i spolu s nástroji se kterými je sbírá
 
