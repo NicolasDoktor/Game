@@ -8,9 +8,9 @@
   ### popis: 
 
       
-       - pole na kterém rostou suroviny se dá vylepšovat i spolu s nástroji se kterými je sbírá
-
-       - hráč musí nasbírat co nejvíce surovin za určitý čas, pokud to nestihne něco se stane
+       - Chodíte po mapě zatím co na vás útočí nepřátelé. Vy je porážíte a získáváté xp
+       - Hráč musí nasbírat co nejvíce xp, aby byl silnější
+       - Každý level budete mít možnost se vylepšit
 
   ### Audio:
        - pokusím se nahrávat vlastní
